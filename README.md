@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: [Wellbeing Of Mind](https://github.com/Woleen/Wellbeing-Of-Mind) (frontend/backend), project about promoting mental wellbeing.<br>🌱 I’m currently learning: C#, Angular<br>💬 Ask me about: React, C#, SQL<br>
+🔭 I’m currently working on: [Wellbeing Of Mind](https://github.com/Woleen/Wellbeing-Of-Mind) (frontend/backend), project about promoting mental wellbeing.<br>🌱 I’m currently learning: C#, Angular<br>💬 Ask me about: React, C#, SQL, NoSQL<br>
 
 
 ## 🌐 Socials:
